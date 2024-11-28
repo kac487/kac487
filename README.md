@@ -1,6 +1,6 @@
 ```mermaid
 stateDiagram-v2
-    [*] --> Coding
+    [*] --> Koding
     
     Coding --> BugHunting: Error appears
     BugHunting --> Coding: Bug fixed
@@ -32,5 +32,4 @@ stateDiagram-v2
     
     note right of Coding: The eternal loop
     note left of Coffee: Essential resource
-    note bottom of StackOverflow: Developer's best friend
 ```
