@@ -1,3 +1,4 @@
+<!--
 ```mermaid
 stateDiagram-v2       
     Koding --> Hungry: Stomach growling
@@ -23,3 +24,4 @@ stateDiagram-v2
     CatVideos --> Guilt: 2 hours later
     Guilt --> Koding: Back to work
 ```
+-->
