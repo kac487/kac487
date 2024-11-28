@@ -1,7 +1,5 @@
 ```mermaid
-stateDiagram-v2
-    [*] --> Koding
-        
+stateDiagram-v2       
     Koding --> Hungry: Stomach growling
     Hungry --> OrderingFood: Opens food app
     OrderingFood --> Eating: Food arrives
